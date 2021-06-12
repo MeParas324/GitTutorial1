@@ -1,0 +1,5 @@
+*.lnk
+dir/
+static/dir
+error.log
+ac.accdb
